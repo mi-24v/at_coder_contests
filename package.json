@@ -1,0 +1,12 @@
+{
+  "name": "at_coder_contests",
+  "version": "0.0.1",
+  "description": "miwpayou0808's atcoder source codes",
+  "main": "index.js",
+  "repository": "ssh://gitea@tk2-227-23233.vs.sakura.ne.jp:19810/miwpayou/at_coder_contests.git",
+  "author": "mi-24v <miwpayou0808@gmail.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "atcoder-cli": "^2.1.0"
+  }
+}
