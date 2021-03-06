@@ -1,5 +1,9 @@
 .vscode/
 
+#online-judge-tools
+test/
+tests/
+
 # Created by https://www.toptal.com/developers/gitignore/api/yarn,python,node
 # Edit at https://www.toptal.com/developers/gitignore?templates=yarn,python,node
 

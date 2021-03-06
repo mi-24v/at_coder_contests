@@ -6,7 +6,7 @@ authors = ["mi-24v <miwpayou0808@gmail.com>"]
 license = "WTFPL"
 
 [tool.poetry.dependencies]
-python = "^3.6"
+python = "^3.8"
 online-judge-tools = "^11.1.3"
 
 [tool.poetry.dev-dependencies]
