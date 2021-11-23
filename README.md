@@ -21,6 +21,8 @@ yarn install --pure-lockfile
 pyenv install $(cat .python-version)
 poetry env use "${HOME}/.pyenv/versions/$(cat .python-version)/bin/python"
 poetry install
+
+yarn run acc login
 ```
 
 ### new contests
