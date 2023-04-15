@@ -22,6 +22,7 @@ pyenv install $(cat .python-version)
 poetry env use "${HOME}/.pyenv/versions/$(cat .python-version)/bin/python"
 poetry install
 
+yarn run acc config oj-path $(poetry env info --path)/bin/oj
 yarn run acc login
 ```
 
